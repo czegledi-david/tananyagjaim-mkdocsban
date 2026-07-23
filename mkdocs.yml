@@ -4,12 +4,31 @@ theme:
   language: hu
   features:
     - content.code.copy
+    - navigation.top
+  palette:
+    # Világos mód (alapértelmezett)
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Váltás sötét módra
+    # Sötét mód
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Váltás világos módra
 plugins:
   - awesome-pages
   - search
+  - glightbox
+  - mkdocs-pdf
+  - git-revision-date-localized:  
+      locale: hu
+      type: date
 markdown_extensions:
   - admonition
   - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.highlight:
       anchor_linenums: true
       use_pygments: true
