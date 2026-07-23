@@ -1,0 +1,17 @@
+site_name: Tananyagok
+theme:
+  name: material
+  language: hu
+  features:
+    - content.code.copy
+plugins:
+  - awesome-pages
+  - search
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      use_pygments: true
+  - pymdownx.superfences
+  - attr_list
