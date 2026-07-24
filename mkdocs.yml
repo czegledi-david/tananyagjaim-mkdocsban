@@ -22,8 +22,8 @@ plugins:
   - glightbox
   - mkdocs-pdf
   - git-revision-date-localized:  
-      locale: hu
-      type: date
+      type: datetime
+      timezone: Europe/Budapest
 markdown_extensions:
   - admonition
   - pymdownx.details

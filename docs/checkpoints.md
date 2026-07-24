@@ -1,20 +1,19 @@
-
-# 🚩 Mérföldkövek és Haladás
+# 🎯 Mérföldkövek és Haladás
 
 Ezen az oldalon nyomon követheted, hogy az egyes tantárgyak és témakörök digitális tananyagai milyen készültségi szinten állnak a Remenyik Zsigmond Technikum diákjai számára.
 
-| Tantárgy / Téma | Elkezdés dátuma | Befejezés dátuma | Állapot |
-| :--- | :---: | :---: | :---: |
-| **C# Programozás Alapok** | 2026.07.23 | - | <progress value="90" max="100" style="width: 100px; height: 10px;"></progress><br>**90%**|
-| **Python Programozás** | 2026.07.23  | - | <progress value="2" max="100" style="width: 100px; height: 10px;"></progress><br> **2%**|
-| **Ágazati alapvizsga felkészítő** | Tervezve  | - | <progress value="0" max="100" style="width: 100px; height: 10px;"></progress><br> **0%** |
-| **Elemi Programozási tételek** | Tervezve   | - | <progress value="0" max="100" style="width: 100px; height: 10px;"></progress><br> **0%**|
-| **Linux alapok** | Tervezve   | - | <progress value="0" max="100" style="width: 100px; height: 10px;"></progress><br> **0%** |
-| **HTML** | Tervezve   | - | <progress value="0" max="100" style="width: 100px; height: 10px;"></progress><br> **0%** |
-| **CSS** | Tervezve  | - | <progress value="0" max="100" style="width: 100px; height: 10px;"></progress><br> **0%** |
-| **Javascript** | Tervezve   | - | <progress value="0" max="100" style="width: 100px; height: 10px;"></progress><br> **0%** |
+| 💡 Téma | Tantárgy / Modul | Kezdés | Befejezés | Állapot | Fókusz / Célkitűzés |
+| :---: | :--- | :---: | :---: | :---: | :--- |
+| 🚀 | **C# Programozás Alapok** | 2026.07.23 | 2026.07.24 | ✅ **100%** | Stabil alaptudás, OOP és GUI rutin |
+| 🐍 | **Python Programozás** | 2026.07.23 | - | ⏳ **2%**<br><progress value="2" max="100" style="width: 80px; height: 8px;"></progress> | Szintaktika, adatkezelés, tiszta kód |
+| 🎓 | **Ágazati alapvizsga felkészítő** | Tervezve | - | ⏸️ **0%**<br><progress value="0" max="100" style="width: 80px; height: 8px;"></progress> | Magabiztos, sikeres vizsgaeredmény |
+| 🧩 | **Elemi Programozási tételek** | Tervezve | - | ⏸️ **0%**<br><progress value="0" max="100" style="width: 80px; height: 8px;"></progress> | Algoritmikus gondolkodás fejlesztése |
+| 🐧 | **Linux alapok** | Tervezve | - | ⏸️ **0%**<br><progress value="0" max="100" style="width: 80px; height: 8px;"></progress> | Parancssoros (CLI) magabiztosság |
+| 🌐 | **HTML** | Tervezve | - | ⏸️ **0%**<br><progress value="0" max="100" style="width: 80px; height: 8px;"></progress> | Stabil és szemantikus webes struktúrák |
+| 🎨 | **CSS** | Tervezve | - | ⏸️ **0%**<br><progress value="0" max="100" style="width: 80px; height: 8px;"></progress> | Modern, reszponzív design építése |
+| ⚡ | **Javascript** | Tervezve | - | ⏸️ **0%**<br><progress value="0" max="100" style="width: 80px; height: 8px;"></progress> | Interaktivitás és kliensoldali logika |
 
 ---
 
-> **Megjegyzés:** 
-A dátumok az aktuális óraszámoktól és a tanmenettől függően kis mértékben változhatnak.
+> 📌 **Oktatói megjegyzés:** 
+> A fenti dátumok az aktuális óraszámoktól és a csoport haladási tempójától függően rugalmasan változhatnak. A minőség és a megértés mindig fontosabb a sebességnél!

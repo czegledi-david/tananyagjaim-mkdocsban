@@ -6,9 +6,6 @@
 # Üdvözöllek a Programozási Tananyagok Oldalán!
 ---
 
-
-
-
 Ezek a digitális segédanyagok elsősorban a **Remenyik Zsigmond Technikum** diákjai számára készültek, azzal a céllal, hogy támogassák az órai munkát, az önálló gyakorlást és az otthoni felkészülést. Természetesen a leírások bárki más számára is hasznosak lehetnek, aki most ismerkedik a szoftverfejlesztés világával.
 
 Ezen az oldalon a kurzusaimhoz tartozó elméleti jegyzeteket, feladatokat, valamint a megoldásokat gyűjtöttem egybe.
